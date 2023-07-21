@@ -1,0 +1,11 @@
+long-debinstaller (0.7-1) unstable; urgency=medium
+
+  * Fix some issues
+
+ -- LongOS Packaging Team <389574063@qq.com>  Mon, 26 Jue 2023 01:22:22 +0800
+
+long-debinstaller (0.5-2) UNRELEASED; urgency=low
+
+  * Initial release (LongOS)  <389574063@qq.com>
+
+ -- LongOS Packaging Team <389574063@qq.com>  Mon, 26 Jue 2023 02:21:42 +0800
